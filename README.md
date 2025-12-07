@@ -1,4 +1,4 @@
-# Unity Flappy Bird Clone
+# Unity Flaffy Blurb Clone
 
 A Unity-based Flaffy Blurb clone with drifting cloud parallax effects and prefab-based spawning.
 
