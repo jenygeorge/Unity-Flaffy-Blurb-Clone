@@ -415,10 +415,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cloudPrefab: {fileID: 6770047567451343394, guid: 1be279320b9f8dc46a9f589d4f1f206d, type: 3}
-  spawnRate: 4
+  minSpawnRate: 2
+  maxSpawnRate: 3
   startX: 12
-  minY: 2
-  maxY: 5
+  minY: 4
+  maxY: -4
   minSpeed: 0.2
   maxSpeed: 0.6
   minScale: 0.8
